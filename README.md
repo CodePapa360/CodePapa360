@@ -11,11 +11,10 @@
   </div>
   
 <br />
-<br />
 - 🌱 I’m currently learning Web Development and other programming languages
 
 <br />
-
+<br />
 <p><img align="right" src="programming-animation_500_.gif" alt="adam-pw" /></p>
 
 <br />
