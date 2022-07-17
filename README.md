@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Alamin</h1>
-<h2 align="center">Welcome to my Github profile!<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2 align="center">Welcome to my GitHub profile!<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/codepapa360" target="_blank">
