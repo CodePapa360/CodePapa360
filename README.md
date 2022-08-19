@@ -11,7 +11,7 @@
   </div>
   
 <br />
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning JavaScript and mastering CSS.
 
 <br />
 <br />
@@ -51,7 +51,4 @@
 
 
 
-      
-<!-- Profile design credit:
-    Adam-pw
-    abdoachhoubi -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codepapa360&layout=compact)](https://github.com/codepapa360/)
