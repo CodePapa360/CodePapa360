@@ -11,7 +11,7 @@
   </div>
   
 <br />
-- 🌱 I’m currently learning JavaScript and mastering CSS.
+- 🌱 I’m currently learning JavaScript and mastering CSS skills.
 
 <br />
 <br />
