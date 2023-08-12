@@ -20,13 +20,15 @@ Passionately weaving code and creativity together, I specialize in creating pixe
 
 I'm always looking for new challenges and opportunities to learn and grow. In my spare time, I enjoy designing websites, coding, and playing video games. I'm also interested in problem solving and learning new things.
 
-I've completed over 40 design challenges on Frontend Mentor, and you can check out my work there to see my skills in action. All of my challenge solutions are available as repositories in my GitHub profile, so you can see my code and how I approached each challenge.
+I've completed over 40 design challenges on [Frontend Mentor](https://www.frontendmentor.io/profile/CodePapa360), and you can check out my work there to see my skills in action. All of my challenge solutions are available as repositories in my GitHub profile, so you can see my code and how I approached each challenge.
 
 I'm excited to be a part of the open source community and to contribute to the development of great web applications. I believe that everyone should have access to the power of the web, and I'm committed to making that happen.
 
 ### 🤝Let's connect:
 
-I'm always excited to collaborate and learn from fellow developers, designers, and dreamers. Whether it's discussing the latest tech trends or swapping design ideas, my inbox is open at contact.codepapa@gmail.com. 💌 Feel free to reach out—I can't wait to hear your story and explore how we can craft something amazing together!
+I'm always excited to collaborate and learn from fellow developers, designers, and dreamers. Whether it's discussing the latest tech trends or swapping design ideas, my inbox is open at contact.codepapa@gmail.com
+
+💌 Feel free to reach out—I can't wait to hear your story and explore how we can craft something amazing together!
 
 #### 🛠️My Languages
 
