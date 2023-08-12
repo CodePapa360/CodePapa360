@@ -36,6 +36,5 @@ I'm always excited to collaborate and learn from fellow developers, designers, a
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,vite,webpack,figma,photoshop)](https://www.linkedin.com/in/codepapa360)
 
-![Alamin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=codepapa360&show_icons=true&theme=dark#gh-dark-mode-only)
-
-![Alamin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=codepapa360&show_icons=true&theme=default#gh-light-mode-only)
+[![Alamin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=codepapa360&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/codepapa360/github-readme-stats#gh-dark-mode-only)
+[![Alamin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=codepapa360&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/codepapa360/github-readme-stats#gh-light-mode-only)
