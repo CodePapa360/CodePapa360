@@ -14,35 +14,27 @@
   
 <hr />
 
-I've embarked on an intriguing adventure as a Front-End Web Developer 🚀. My story begins with immersing myself in the fundamental world of coding, and from that point forward, I've been sculpting captivating digital landscapes that resonate with users.
+Hey there! 🚀 I'm a Front-End Web Developer on an exciting coding journey, crafting captivating digital experiences for users to enjoy effortlessly.
 
 ### About Myself 😎
+I'm all about creating web designs that just work—pixel-perfect and user-friendly vibes. Keeping it simple and accessible for everyone.
 
-My real delight comes from creating user-centered web designs, where precise pixels and smooth interactions make the experience effortless. I'm committed to making the user journey simple. Plus, I ensure the creation of accessible websites, assuring a friendly experience for a diverse group of users.
+🛠️ Built 40+ websites, showcasing my front-end skills on Frontend Mentor. I love checking out others' work, giving feedback, and learning in the process.
 
-Having developed more than 40 websites that showcase my front-end skills on Frontend Mentor, I've ensured their accessibility via my GitHub repository. See [all my projects at Frontend Mentor.](https://www.frontendmentor.io/profile/CodePapa360/solutions)
+👀 Check out my pinned repos for a glimpse of my evolving skills. Always up for new challenges and having a blast designing and coding in my free time.
 
-Additionally, I've lent my support to fellow developers within the Frontend Mentor community. I've engaged in analyzing their code and providing constructive feedback.
-
-For a glimpse into my current capabilities, I encourage you to explore the handpicked pinned repositories that offer a snapshot of my evolving skill set.
-
-I am always seeking challenges to learn and grow. Designing websites and coding during my free time brings me joy, while problem-solving and exploring new areas keep me inspired.
-
-#### 🤝Ready to Connect:
-
-I'm excited to connect with developers, designers, and enthusiasts. Whether we're exploring tech trends, shaping design visions, or sparking fresh concepts, I'm reachable at contact.codepapa@gmail.com 💌. Let's collaborate on an innovative journey!
+### Let's Connect🤝
+Excited to chat with developers, designers, or anyone into cool tech stuff. Hit me up at contact.codepapa@gmail.com 💌. Let's dive into some creative coding adventures!
 
 ### Proficiencies and Toolset 🛠️
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/html) : The bedrock of the web, where every online journey begins.
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) : The language that brings style and design to web pages.
-- [Sass](https://sass-lang.com/) : Elevating CSS to new heights, I use Sass to elegantly organize and consolidate my styles into a single, polished sheet.
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) : The scripting wizardry that breathes life into web interactions and functionalities.
-- [Git](https://git-scm.com/) : My coding time traveler, allowing me to explore various project timelines without fear.
-- [Figma](https://www.figma.com/) : My virtual design haven, especially when working with design files, although I'm no designer.
-- [Visual Studio Code](https://code.visualstudio.com/) : My trusty coding companion, equipped with all the tools necessary for crafting digital wonders.
-- [Webpack](https://webpack.js.org/) & [Vite](https://vitejs.dev/) : My dynamic duet for optimizing and bundling my code, ensuring optimal web performance.
-- [Photoshop](https://www.adobe.com/products/photoshop.html) : My creative playground for shaping digital canvases and bringing imaginative designs to life.
+[HTML](https://developer.mozilla.org/en-US/docs/Web/html) - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+
+[Sass](https://sass-lang.com/) - [Tailwind CSS](https://tailwindcss.com/) - [Styled components](https://styled-components.com/)
+
+[React](https://react.dev/) - [React Query](https://tanstack.com/query/latest/) - [React Router](https://reactrouter.com/en/main)
+
+[Git](https://git-scm.com/) - [Supabase](https://supabase.com/) - [Figma](https://www.figma.com/) - [VS Code](https://code.visualstudio.com/) - [Webpack](https://webpack.js.org/) - [Vite](https://vitejs.dev/)
 
 <br/>
 <br/>
