@@ -14,7 +14,7 @@
 
 <h2 align="center">
   <a href="https://alamin-dev.vercel.app" target="_blank">
-    Test
+    Portfolio 🖱️
   </a>
 </h2>
 
