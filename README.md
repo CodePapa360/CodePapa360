@@ -1,51 +1,47 @@
-<h1 align="center">Hi, I'm Alamin! 👋🙂</h1>
+<h1 align="center">Hi, I'm Alamin! 🙂👋</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/codepapa360">
-    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/CodePapa360">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:contact.codepapa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CodePapa360) [![X](https://img.shields.io/badge/twitter-black.svg?logo=X&logoColor=white)](https://x.com/CodePapa360) [![X](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:contact.codepapa@gmail.com)
+
 </div>
 
 <h2 align="center">
   <a href="https://alamin-dev.vercel.app" target="_blank">
-    Portfolio 🖱️
+   Portfolio 🖱️
   </a>
 </h2>
 
+# 💫 About Me:
 
-## About Me 😎
+I'm a front-end developer based in Dhaka, Bangladesh, with a passion for precision and creativity in web development. I’m dedicated to crafting exceptional web experiences that are smooth, engaging, and user-friendly. Whether it's a personal project or a professional challenge, I always strive to ensure every detail is just right.
 
-I'm a dedicated Front-End Developer passionate about crafting exceptional web experiences. My focus is on creating pixel-perfect designs and user-friendly interfaces that make a lasting impression. With over 40 websites built and a strong presence on Frontend Mentor, I continuously seek new challenges and opportunities for growth.
+My focus isn’t just on getting things done—it’s about doing them well and growing with every project.
 
-🔧 **What I Do**: I specialize in turning ideas into reality with clean and efficient code. I thrive on learning and experimenting with new technologies to stay at the forefront of web development.
+🌱 **What Drives Me**: I’m always learning and pushing myself to turn ideas into reality with clean, efficient, and purposeful code. Exploring new technologies and improving my skills keep me inspired in this ever-evolving field.
 
-👀 **Explore My Work**: Check out my pinned repositories to see my latest projects and skills in action. I love collaborating and discussing innovative ideas, so feel free to reach out!
+🚀 **Explore My Work**: Feel free to dive into my pinned repositories to check out my latest projects. If you’re looking to collaborate or discuss innovative ideas, I’m always open to new connections!
 
-## Skills & Technologies 🛠️
+## 💻 My skills:
 
-**Languages & Libraries**:
-[HTML](https://developer.mozilla.org/en-US/docs/Web/html) •
-[CSS](https://developer.mozilla.org/en-US/docs/Web/css) •
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) •
-[TypeScript](https://www.typescriptlang.org/) •
-[Next.Js](https://nextjs.org/) •
-[React](https://react.dev/) •
-[React Query](https://tanstack.com/query/latest/) •
-[Redux](https://redux.js.org/) •
-[Framer Motion](https://www.framer.com/motion) •
-[Tailwind CSS](https://tailwindcss.com/) •
-[Styled Components](https://styled-components.com/) •
-[Sass](https://sass-lang.com/)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-**Tools**:
-[Git](https://git-scm.com/) •
-[Supabase](https://supabase.com/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ## Projects 🚀
 
@@ -68,5 +64,9 @@ Connect with me on:
 <br/>
 <br/>
 
-[![Alamin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=codepapa360&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/codepapa360/github-readme-stats#gh-dark-mode-only)
-[![Alamin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=codepapa360&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/codepapa360/github-readme-stats#gh-light-mode-only)
+<div align="center">
+
+[![Alamin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=CodePapa360&show_icons=true&theme=tokyonight&count_private=true#gh-dark-mode-only)](https://github.com/codepapa360/github-readme-stats#gh-dark-mode-only)
+[![Alamin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=CodePapa360&show_icons=true&theme=default&count_private=true#gh-light-mode-only)](https://github.com/codepapa360/github-readme-stats#gh-light-mode-only)
+
+</div>
